@@ -1,0 +1,8 @@
+//server_node=role
+//service_name=base
+
+message cs_base_info {
+}
+message sc_base_info {
+  int64 roleID
+}

@@ -1,0 +1,17 @@
+//server_node=gate
+//service_name=gate
+
+message cs_login {
+  string username
+  string password
+  uint64 uuid
+}
+message sc_login {
+  uint32 errcode
+}
+
+message cs_heart {
+}
+message sc_heart {
+  uint32 timestamp
+}

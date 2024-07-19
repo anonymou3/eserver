@@ -1,0 +1,18 @@
+[submodule "3rd/mysql-otp-poolboy"]
+	path = 3rd/mysql-otp-poolboy
+	url = https://github.com/mysql-otp/mysql-otp-poolboy
+[submodule "3rd/dynamic_compile"]
+	path = 3rd/dynamic_compile
+	url = https://github.com/jkvor/dynamic_compile
+[submodule "3rd/ranch"]
+	path = 3rd/ranch
+	url = https://github.com/ninenines/ranch
+[submodule "3rd/goldrush"]
+	path = 3rd/goldrush
+	url = https://github.com/DeadZen/goldrush
+[submodule "3rd/gpb"]
+	path = 3rd/gpb
+	url = https://github.com/tomas-abrahamsson/gpb
+[submodule "3rd/lager"]
+	path = 3rd/lager
+	url = https://github.com/erlang-lager/lager

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/3rd/dynamic_compile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rd/goldrush" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rd/gpb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rd/lager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rd/mysql-otp-poolboy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rd/mysql-otp-poolboy/_build/default/lib/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rd/mysql-otp-poolboy/_build/default/lib/poolboy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rd/ranch" vcs="Git" />
+  </component>
+</project>
